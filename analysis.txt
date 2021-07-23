@@ -1,0 +1,57 @@
+HomePage
+    Categories
+    Login
+    Register
+    + Add Discount
+
+Categories:
+    Electronics
+    Computers
+    Smart Home
+    Arts & Crafts
+    Automotive
+    Baby
+    Beauty and personal care
+    Women's Fashion
+    Men's Fashion
+    Girls' Fashion
+    Boys' Fashion
+    Health and Household
+    Home and Kitchen    
+    Industrial and Scientific
+    Luggage
+    Movies & Television
+    Pet supplies
+    Software
+    Sports and Outdoors
+    Tools & Home Improvement
+    Toys and Games
+    Video Games
+
+Categorie Pages:
+    Upwote
+    Downwote
+    Cut title
+
+
+Cut Page: 
+    Product Image
+    Product Link
+    Seller Name
+    Selling Plarform Icon
+    Description
+    Price
+
+
+Tech Stack:
+    Worpdpress
+
+
+Design Todos:
+    []Logo Design: O U 
+    []Social media accounts
+        []Twitter
+        []Facebook
+        []Instagram
+
+    
